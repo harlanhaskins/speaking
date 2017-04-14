@@ -2,11 +2,13 @@
 Upcoming speaking engagements of @harlanhaskins
 
 | Event | Location | Date | Talk |
+| ----- | -------- | ---- | ---- |
 | [try! Swift](https://www.tryswift.co/events/2017/nyc) | New York City | Sept. 5th and 6th | TBD |
 
 ## Past Events
 
 | Event | Location | Date | Talk |
+| ----- | -------- | ---- | ---- |
 | [PlaygroundsCon](https://playgroundscon.com) | Melbourne | Sept. 5th and 6th | How to Clang Your Dragon: Building a Compiler with LLVM |
 
 ## Slides
