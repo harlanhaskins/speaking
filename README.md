@@ -9,8 +9,8 @@ Upcoming speaking engagements of @harlanhaskins
 
 | Event | Location | Date | Talk |
 | ----- | -------- | ---- | ---- |
-| [PlaygroundsCon](https://playgroundscon.com) | Melbourne | Sept. 5th and 6th | How to Clang Your Dragon: Building a Compiler with LLVM |
-| [try! Swift](https://www.tryswift.co/events/2017/nyc) | New York City | Sept. 5th and 6th | Improving Swift Tools with libSyntax |
+| [PlaygroundsCon](https://playgroundscon.com) | Melbourne | Feb. 23rd, 2017 | How to Clang Your Dragon: Building a Compiler with LLVM |
+| [try! Swift](https://www.tryswift.co/events/2017/nyc) | New York City | Sept. 5th, 2017 | Improving Swift Tools with libSyntax |
 
 ## Slides
 
